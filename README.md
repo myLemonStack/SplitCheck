@@ -1,1 +1,1 @@
-# Movie_app
+# SplitCheck
